@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect
 from django.contrib import messages, auth
 from django.contrib.auth.decorators import login_required
-from acteur.views import BaseView
+from config.base_view import BaseView
 from .repository import UserRepository, GroupRepository, PermissionGroupRepository, PermissionUserRepository
 from django.http import JsonResponse
 from django.contrib.auth.models import User, Group
