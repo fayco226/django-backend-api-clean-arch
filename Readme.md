@@ -141,8 +141,8 @@ manage.py
 
 ## Licence
 
-Ce projet est sous licence MIT.
+Ce projet est sous licence.
 
 ---
 
-**Auteur** : [Votre
+**Auteur** : Faical Lengane

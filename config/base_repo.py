@@ -1,11 +1,7 @@
 from django.db import transaction
-# from django.db.models import Q
 from django.core.exceptions import ObjectDoesNotExist
-# from django.http import JsonResponse
 from django.shortcuts import get_object_or_404
-# import json
 from rest_framework import serializers
-# from django.db.models import QuerySet
 from django import forms
 
 
